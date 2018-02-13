@@ -16,7 +16,7 @@
     "editor.cursorBlinking": "smooth",
     "editor.mouseWheelZoom": true,
     "editor.renderLineHighlight": "all",
-    "workbench.editor.showTabs": true,
+    "workbench.editor.showTabs": false,
     "workbench.editor.closeOnFileDelete": false,
     "window.title": "${dirty}${rootName} / ${activeEditorShort} / ${appName}",
     "files.trimTrailingWhitespace": true,
@@ -24,5 +24,6 @@
     "files.defaultLanguage": "javascript",
     "explorer.openEditors.dynamicHeight": false,
     "explorer.sortOrder": "type",
-    "html.autoClosingTags": false
+    "html.autoClosingTags": false,
+    "window.zoomLevel": 0
 }
