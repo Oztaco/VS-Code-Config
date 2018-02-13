@@ -1,0 +1,28 @@
+{
+    "extensions.ignoreRecommendations": false,
+    "files.associations": {
+        "*.ftl": "html"
+    },
+    "editor.rulers": [
+        80
+    ],
+    "editor.renderWhitespace": "boundary",
+    "editor.wordSeparators": "_`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "editor.smoothScrolling": true,
+    "editor.minimap.maxColumn": 120,
+    "editor.autoClosingBrackets": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.cursorBlinking": "smooth",
+    "editor.mouseWheelZoom": true,
+    "editor.renderLineHighlight": "all",
+    "workbench.editor.showTabs": true,
+    "workbench.editor.closeOnFileDelete": false,
+    "window.title": "${dirty}${rootName} / ${activeEditorShort} / ${appName}",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.defaultLanguage": "javascript",
+    "explorer.openEditors.dynamicHeight": false,
+    "explorer.sortOrder": "type",
+    "html.autoClosingTags": false
+}
